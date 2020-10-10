@@ -1,0 +1,1 @@
+web: java -Djava.runtime.version=11 -jar target/github-api-example-0.0.1-SNAPSHOT.jar
